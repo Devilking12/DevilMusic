@@ -3,7 +3,7 @@ import sys
 from pyrogram import Client
 from ...console import LOGGER
 
-from SankiMusic.utilities import config
+from DevilMusic.utilities import config
 
 class Bot(Client):
     def __init__(self):
